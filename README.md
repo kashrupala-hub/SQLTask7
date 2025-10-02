@@ -5,7 +5,8 @@ This repository demonstrates the use of SQL Views
 ->It does not store data physically
 ->Views are an essential feature in relational databases that
   provide abstraction, security, consistency,Resuability and simplicity.  
-->They are especially useful when working with sensitive information, complex joins, or reusable queries.
+->They are especially useful when working with sensitive information, 
+  complex joins, or reusable queries.
 
 purpose:
  1. Security – Restrict access to sensitive columns by exposing only selected fields through views.  
